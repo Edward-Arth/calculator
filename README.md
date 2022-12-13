@@ -1,1 +1,1 @@
-# calculator
+In this project, I created a calculator using javascript.
